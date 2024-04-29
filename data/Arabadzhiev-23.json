@@ -1,0 +1,8 @@
+{
+  "contest": 362,
+  "handle": "Arabadzhiev",
+  "risk": "2",
+  "title": "The `liquidate` function does not take accrued interest fees into account when calculating the LTV of a given position",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2024-04-lavarage-findings/issues/23"
+}
