@@ -1,0 +1,8 @@
+{
+  "contest": 362,
+  "handle": "Koolex",
+  "risk": "2",
+  "title": "The lender could force a position to be liquidated by blocking adding extra amount to the collateral",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-04-lavarage-findings/issues/22"
+}
