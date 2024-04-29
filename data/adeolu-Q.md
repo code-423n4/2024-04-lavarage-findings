@@ -12,7 +12,7 @@ https://github.com/code-423n4/2024-04-lavarage/blob/9e8295b542fb71b2ba9b4693e256
 
 if borrow_amount for one position is `199`, this will mean fee will be `199 * 5 / 1000 = 995 /1000 = 0 `
 
-user decides to make 2000 borrow positions, each borrowing the small amount 199. This means user has sucessfully borrowed a value of `398000` via the protocol without paying any fees. 
+user decides to make 2000 borrow positions (in batch calls), each borrowing the small amount 199. This means user has sucessfully borrowed a value of `398000` via the protocol without paying any fees. 
 
 if it intended for strict fees payment for every position opened then the borrow function should revert if fee calc returns 0.  
 
