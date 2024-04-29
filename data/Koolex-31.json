@@ -1,0 +1,8 @@
+{
+  "contest": 362,
+  "handle": "Koolex",
+  "risk": "2",
+  "title": "Lack of freeze authority check for collateral tokens on create trading pool",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-04-lavarage-findings/issues/31"
+}
