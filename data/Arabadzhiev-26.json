@@ -1,0 +1,8 @@
+{
+  "contest": 362,
+  "handle": "Arabadzhiev",
+  "risk": "3",
+  "title": "Collateral can be claimed back without repaying its corresponding loan due to insufficient instruction validation",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-04-lavarage-findings/issues/26"
+}
