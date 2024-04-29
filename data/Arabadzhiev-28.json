@@ -1,0 +1,8 @@
+{
+  "contest": 362,
+  "handle": "Arabadzhiev",
+  "risk": "3",
+  "title": "Malicious users can drain all trading pools, due to insufficient instruction validation in the `borrow` function",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-04-lavarage-findings/issues/28"
+}
