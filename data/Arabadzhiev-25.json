@@ -1,0 +1,8 @@
+{
+  "contest": 362,
+  "handle": "Arabadzhiev",
+  "risk": "2",
+  "title": "The last position/s from a given pool can be permanently prevented from being closed, by repaying an arbitrary position more than once",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-04-lavarage-findings/issues/25"
+}
